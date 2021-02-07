@@ -1,31 +1,4 @@
-# AI-Powered Voice Assistant Flutter Radio App
 
-This is a radio app where you can ask Alan AI to play some music.
-
-<p align="center">
-  <a href="https://youtu.be/p4xh7zTt6i0" target="_blank">
-    <img src="ss/ai_cover.png"  width="800" alt="Alan AI Radio App">
-  </a>
-</p>
-
-> Alan AI: https://voice.alan.app/MTechViral
->
-> Promo Code: MTECHVIRAL
-
-### Show some :heart: and star the repo.
-
-[![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/Coronavirus-Warrior)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imthepk.svg?style=social)](https://twitter.com/imthepk)
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-
-## AI Radio Video Tutorial
-
-[Watch here](https://youtu.be/p4xh7zTt6i0)
-
----
-
-## <a href="https://www.buymeacoffee.com/mtechviral"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=mtechviral&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ## Some screenshots
 
