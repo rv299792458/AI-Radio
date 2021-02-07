@@ -14,19 +14,7 @@
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
----
 
-### YouTube Channel
-
-[MTechViral](https://www.youtube.com/mtechviral)
-
-### Facebook Group
-
-[Let's Flutter With Dart](https://www.facebook.com/groups/425920117856409/)
-
-### Collection of flutter apps with tutorial
-
-[Flutter Example Apps](https://github.com/iampawan/FlutterExampleApps)
 
 ---
 
